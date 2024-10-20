@@ -14,7 +14,7 @@ Simple application to generate transcript summeries from YouTube Videos
 
 1. **Clone the repository:**
    ```bash
-   git clone VideoSummeriser
+   git clone https://github.com/Unicorn-Wizard/VideoAiSummeriser.git
    ```
 
 2. **Navigate to the project directory:**
